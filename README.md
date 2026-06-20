@@ -1,6 +1,6 @@
 # Skrimpers Platform
 
-Built and operated by a solo founder with 25+ years leading large-scale technology programs at UBS, Credit Suisse, Bank of America, etc.
+A personal portfolio project — designed and built solo by a technology leader with 25+ years running large-scale programs at UBS, Credit Suisse, and Bank of America.
 
 **AI-powered Swiss price intelligence platform**
 
@@ -10,11 +10,11 @@ Live at [skrimpers.com](https://skrimpers.com)
 
 ## What Is This?
 
-Skrimpers is a production consumer platform that answers a simple question: **where should I shop in Switzerland to get the best prices?**
+Skrimpers is a full-stack consumer platform I built to answer a simple question: **where should I shop in Switzerland to get the best prices?**
 
 It tracks prices across 9 major Swiss grocery retailers, monitors 6,000+ fuel stations across Switzerland and 100km into neighboring countries (Germany, France, Italy, Austria), and maps 17,000+ EV charging stations — all updated daily through automated data pipelines.
 
-I designed, architected, and built the entire platform solo, using AWS and AI-native development practices with Claude as my engineering team. The platform is live in production with real users today.
+I designed, architected, and built the entire platform solo, using AWS and AI-native development practices with Claude as my engineering team — an end-to-end demonstration of production-grade AI, cloud, and data engineering.
 
 ---
 
